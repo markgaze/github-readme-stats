@@ -4,6 +4,7 @@ const themes = {
     icon_color: "4c71f2",
     text_color: "333",
     bg_color: "fffefe",
+    border_color: "e4e2e2",
   },
   default_repocard: {
     title_color: "2f80ed",
@@ -286,6 +287,12 @@ const themes = {
     icon_color: "1F6FEB",
     text_color: "C3D1D9",
     bg_color: "0D1117",
+  },
+  discord_old_blurple: {
+    title_color: "7289DA",
+    icon_color: "7289DA",
+    text_color: "FFFFFF",
+    bg_color: "2C2F33",
   },
 };
 
